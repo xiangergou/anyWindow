@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/xiangergou/node-static-server/issues"
   },
-  "homepage": "https://github.com/xiangergou/node-static-server#readme"
+  "homepage": "https://github.com/xiangergou/node-static-server#readme",
+  "dependencies": {
+    "handlebars": "4.1.2"
+  }
 }
